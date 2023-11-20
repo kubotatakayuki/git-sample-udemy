@@ -6,3 +6,5 @@ print("add の2回目です")
 print("add の3回目です")
 
 print("add の4回目です")
+
+print(".gitignoreを作ってみた")
